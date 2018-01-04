@@ -17,3 +17,7 @@ function divide(a,b){
 function inc(){
   
 }
+
+function dec(){
+  
+}
